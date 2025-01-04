@@ -48,18 +48,6 @@ Usage
 - Use the Phi Data Playground to ask financial queries, generate insights, or test custom scenarios.
 - The agent is pre-configured to handle financial datasets and provide meaningful outputs.
 
-Repository Structure
---------------------
-.
-├── playground.py       # Main script to launch the Phi Data Playground
-├── requirements.txt    # List of Python dependencies
-├── .env.example        # Example file for API keys
-├── README.md           # Documentation (this file)
-├── src/                # Source code for the Financial Agent
-│   ├── agent.py        # Financial Agent implementation
-│   ├── utils.py        # Utility functions
-│   └── config.py       # Configuration setup
-
 Support
 -------
 If you encounter any issues or have questions, feel free to open an issue in this repository or contact the maintainers.
