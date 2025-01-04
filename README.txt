@@ -1,5 +1,5 @@
 
-# Financial Agent with Phi Data
+Financial Agent with Phi Data
 =============================
 
 This repository contains a **Financial Agent** built using the **Phi Data** framework. The agent leverages AI capabilities to assist with financial tasks, such as answering queries, generating reports, and analyzing data.
