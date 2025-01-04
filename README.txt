@@ -15,8 +15,7 @@ Setup Instructions
 
 1. Clone the Repository
 ------------------------
-    git clone https://github.com/your-username/financial-agent-phi-data.git
-    cd financial-agent-phi-data
+    git clone https://github.com/fahadrafiq94/Agentic-AI.git
 
 2. Install Dependencies
 ------------------------
@@ -26,7 +25,7 @@ Install all required Python libraries listed in `requirements.txt`:
 3. Set API Keys
 ---------------
 Create a `.env` file in the project directory and paste your API keys into it. For example:
-    OPENAI_API_KEY=your_openai_api_key
+    GROQ_API_KEY=your_groq_api_key
     PHI_DATA_API_KEY=your_phi_data_api_key
 
 Ensure your API keys are valid and have the necessary permissions.
